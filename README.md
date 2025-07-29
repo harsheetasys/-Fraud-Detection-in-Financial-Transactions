@@ -48,7 +48,7 @@ Hyperparameter tuning done using:
 ⚙️ SHAP Beeswarm Plot  
 🧠 Feature Importance (Random Forest)
 
-> See `/images/` folder for snapshots
+> See in the .ipynb file itself.
 
 ---
 
@@ -61,6 +61,4 @@ Hyperparameter tuning done using:
 - Jupyter Notebook
 
 ---
-
-## 🗃️ Directory Structure
 
